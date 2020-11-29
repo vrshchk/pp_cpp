@@ -1,0 +1,12 @@
+﻿  Horner.cpp
+C:\Users\Mariia\staff\education\2\21\пп с++\05Vareshchuk\Horner.cpp(10,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Mariia\staff\education\2\21\пп с++\05Vareshchuk\Horner.cpp(11,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mariia\staff\education\2\21\пп с++\05Vareshchuk\Horner.cpp(21,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mariia\staff\education\2\21\пп с++\05Vareshchuk\Horner.cpp(45,5): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Mariia\staff\education\2\21\пп с++\05Vareshchuk\Horner.cpp(53,23): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+C:\Users\Mariia\staff\education\2\21\пп с++\05Vareshchuk\Main.cpp(10,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Mariia\staff\education\2\21\пп с++\05Vareshchuk\Main.cpp(18,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mariia\staff\education\2\21\пп с++\05Vareshchuk\Main.cpp(22,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  05Vareshchuk.vcxproj -> C:\Users\Mariia\staff\education\2\21\пп с++\05Vareshchuk\Debug\05Vareshchuk.exe
