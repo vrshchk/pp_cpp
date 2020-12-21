@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{3852c190-a0f6-4d52-9e9a-8f76d9a3b2ec}</ProjectGuid>
+    <ProjectGuid>{003d8539-cb95-45a2-b416-5f9d406bcda7}</ProjectGuid>
     <RootNamespace>My09Vareshchuk</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
@@ -140,8 +140,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Dichotomy.cpp" />
-    <ClCompile Include="Dichotomy.h" />
-    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Dichotomy.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

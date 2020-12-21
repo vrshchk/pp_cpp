@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{7e29c151-d517-45c6-9be6-ee705b5a9e41}</ProjectGuid>
+    <ProjectGuid>{71b17445-0c4f-46d3-b1de-c1c0dbf6820c}</ProjectGuid>
     <RootNamespace>My06Vareshchuk</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
@@ -140,7 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ArraySorting.cpp" />
-    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ArraySorting.h" />
